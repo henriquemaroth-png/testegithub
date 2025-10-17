@@ -1,0 +1,20 @@
+body{
+     background: linear-gradient(to right, #bd2323, #bdb9b6, rgb(0, 0, 0));
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    float: left;
+}
+
+p{
+    font-size: 20px;
+    position: absolute;
+    left: 320px;
+    top: 130px;
+}
